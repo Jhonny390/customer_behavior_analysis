@@ -16,9 +16,6 @@ Power BI / Tableau (for dashboard)
 Excel (for initial data review)
 
 📂 Dataset
-
-Source: [Mention dataset source if available]
-
 Type: Structured dataset (CSV/Excel)
 
 Size: [3900 × 18]
